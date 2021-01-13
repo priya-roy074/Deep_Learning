@@ -1,0 +1,6 @@
+Which model has a lower loss?
+The closing price model.
+Which model tracks the actual values better over time?
+The closing price model.
+Which window size works best for the model?
+It seems like it performs better closer to 10.
